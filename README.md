@@ -15,8 +15,8 @@ The overall probability value (p-value) is very low at 7.438494e-13, indicating 
 used in this study are significant when determining death within 12 months of heart failure.
 
 There is, however, a 21.08% causality between the 11 regressors and the dependent value of
-death after surviving a heart failure. The individual p-values show us which regressors we can keep or 
-reject. Any individual regressors that have produced high p-values (higher than 0.05) will be disregarded.
+death after surviving a heart failure. Thei individual p-values will show us which regressors we can keep or 
+reject. Any individual regressors that have produced high p-values, higher than 0.05, will be disregarded.
 
 The regressors with low p-values indicate that within 12 months of surviving heart failure,
 the determining factors in the probability of the survivor dying are: 
