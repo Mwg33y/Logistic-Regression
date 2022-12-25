@@ -6,8 +6,8 @@ This dataset contains the medical records of 299 patients who had
 heart failure, where each patient profile has 12 clinical features.
 This case study attempts to determine the probability of dying 
 within 12 months of suffering heart failure. We try to make this 
-determination using 11 of the clinical freatures(i.e regressors) which 
-were measured and recorded after the patients survived a heart faiure. 
+determination using 11 of the clinical freatures(i.e regressors) that 
+were ovserved and recorded after the patients survived a heart faiure. 
 
 **Findings**
 
@@ -15,8 +15,8 @@ The probability value (p-value) is very low at 7.438494e-13, indicating that the
 used in this study are significant when determining death within 12 months of heart failure.
 
 There is, however, a 21.0813% causality between the 11 regressors and the dependent value of
-death(after surviving a heartfailure). I believe this low R-squared value means that it is 
-safe to reject any individual regressors that have produced high p-values (igher than 0.05).
+death(after surviving a heart failure. I believe this low R-squared value means that it is 
+safe to reject any individual regressors that have produced high p-values (higher than 0.05).
 
 The regressors with low p-values indicate that within 12 months of surviving heart failure,
 the determining factors in the probability of the survivor dying are: 
@@ -47,7 +47,7 @@ the determining factors in the probability of the survivor dying are:
   - high blood pressure
   - gender
   - the amount of blood platelets in the blood stream when the heart is pumping
-  - creatinine_phosphokinase levels in the blood stream
+  - creatinine phosphokinase levels in the blood stream
   - the amount of serum creatinine in the blood stream
   
   When the rejected vaules are excluded, the R-squared values for the logistic regression drops down to 18.67%. The 
