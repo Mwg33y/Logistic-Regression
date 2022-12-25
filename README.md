@@ -51,6 +51,10 @@ the determining factors in the probability of the survivor dying are:
   - creatinine_phosphokinase levels in the blood stream,
   - the amount of serum creatinine in the blood stream,
   
+  The R-squared values for the logistic regression when the rejected vaues are excluded drops down to 18.67%. The rejected
+ regressors only slight improve the r-squared value by 3%. They only slightly have an effect on the possible death of
+ a heart filure survivor.
+ 
   The logistic regression analysis findings suggest that the probability of dying 
 within 12 months of suffering heart failure comes down to the heart's ability and strength to continue 
 performing it's basic function, regardless of the cause of it's initial failure. Some heart failures 
