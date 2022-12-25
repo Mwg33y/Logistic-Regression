@@ -60,7 +60,7 @@ colnames(heart_failure) <- c(
 
 
 
-#re-assign boolean values to factor types
+#assign factor types to boolean values 
 
 heart_failure$cardiac.death<-as.factor(heart_failure$cardiac.death)
 heart_failure$gender<-as.factor(heart_failure$gender)
