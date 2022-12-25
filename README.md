@@ -30,10 +30,10 @@ the determining factors in the probability of the survivor dying are:
  The rejected regressors that have low p-values, are at the root of the low R-squared vale are. 
  They have low causal effect on the death of a survivor of heart failure within the 12 months 
  that follow. These are the rejected clinical freatures(i.e regressors):
-  -smoking
-  -diabetes
-  -high blood pressure
-  -gender
+  - smoking
+  - diabetes
+  - high blood pressure
+  - gender
   
   The logistic regression analysis findings suggest that probability probability of dying 
 within 12 months of suffering heart failure comes down to the heart's ability to continue 
