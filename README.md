@@ -68,6 +68,7 @@ the patients in relation to signifcant/highly causal regressors (serum sodium, e
             - 40% of patients with an ejection fraction rate below 40% have died, 60% did not die
                  	- 63.7 years old for deceased
 	         	- 58 years old for living
-            - The average age of patients that died was 65.2 years old. 
-            - The average age of patients that did not die was 58.8 years old.
+            - The average age of patients that died was 65.2 years old
+            - The average age of patients that did not die was 58.8 years old
+	    - The average age for patients in this study was 60.8 years old
 
