@@ -33,7 +33,7 @@ library(ggplot2)
 
 #retrieve the heart failure patients data
 heart_failure <- read.csv(
-  "C:\\Users\\Deka\\Desktop\\DataAnalysis22\\Portfolio\\Regression_Example_R\\heart_failure_clinical_records_dataset.csv",
+  "C:\\Users\\Abdul\\Desktop\\DataAnalysis22\\Portfolio\\Regression_Example_R\\heart_failure_clinical_records_dataset.csv",
   stringsAsFactors = FALSE)
 
 
@@ -167,7 +167,7 @@ ggplot(data=predicted.cardiac.death, aes(x=rank, y=probability.of.cardiac.death)
   ylab("Predicted probability of death 12 months within surviving heart failure")
 
 
-
+#save logistic regression plot
 ggsave("heart_failure.pdf")
 
 
