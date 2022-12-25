@@ -37,4 +37,5 @@ the determining factors in the probability of the survivor dying are:
   
   The logistic regression analysis findings suggest that probability probability of dying 
 within 12 months of suffering heart failure comes down to the heart's ability and strength to continue 
-performing it's basic function, regardless of the cause of it's initial failure. 
+performing it's basic function, regardless of the cause of it's initial failure. Some heart failures 
+are more severe than others, and some hearts are too old/weak to continue functioning.
