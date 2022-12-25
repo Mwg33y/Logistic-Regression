@@ -51,8 +51,8 @@ the determining factors in the probability of the survivor dying are:
   - the amount of serum creatinine in the blood stream
   
   When the rejected vaules are excluded, the R-squared values for the logistic regression drops down to 18.67%. The 
- rejected regressors only slight improve the r-squared value by 3%. Meaning they only 3% of the probability of the death 
- of a heart failure survivor.
+ rejected regressors only slightly improve the R-squared value by 3%. Meaning they only explain 3% of the probability 
+ of the death of a heart failure survivor in the following 12 month period.
  
  **Conclusion**
  
@@ -61,7 +61,7 @@ heart failure comes down to the heart's ability and strength to continue perform
 regard to some of the causes (i.e rejected regressors) of it's initial failure. The following are some observations of
 the patients in relation to signifcant/highly causal regressors (serum sodium, ejection rate, age):
 
-        - Average age statistics of 299 monitored patients within 12 months of heart failure in relation to significant regressors 
+        - Average age statistics of 299 monitored patients within 12 months of heart failure in relation to significant regressors: 
             - 97% of patients with serum sodium levels below 136 mEq/ml died, 3% did not die
 	                - 67.6 years old for deceased
 	                - 60.1 years old for living
