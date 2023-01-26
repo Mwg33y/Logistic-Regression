@@ -7,7 +7,7 @@ heart failure, where each patient profile has 12 clinical features.
 This case study attempts to determine the probability of dying 
 within 12 months of suffering heart failure. We try to make this 
 determination using 11 of the clinical freatures(i.e regressors) that 
-were ovserved and recorded after the patients survived a heart faiure. 
+were observed and recorded after the patients survived a heart faiure. 
 
 **Findings**
 
